@@ -1,9 +1,9 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*l1GgcqQ-pRxY5o1t)
 <h1 align="center">Hi 👋, I'm Merve Esra Tekcan</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">Full Stack .NET Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">esramerve.tekcan@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
